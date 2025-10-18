@@ -1,0 +1,17 @@
+# Binaries
+/bin/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary and cache
+*.test
+/_test/
+/testdata/
+
+# Editor
+.vscode/
+.idea/
+*.swp
