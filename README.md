@@ -89,6 +89,7 @@ Press Ctrl + C to stop the server.
 
 ## 🧱 Project Structure
 
+```
 todo-api/
 ├── cmd/
 │   └── server/
@@ -104,6 +105,7 @@ todo-api/
 │       └── api_integration_test.go
 ├── go.mod
 └── README.md
+```
 
 ## 🧭 Notes
 
