@@ -1,4 +1,5 @@
 # 🧩 Todo API — Go Project
+Go is ideal for high-concurrency applications because its lightweight goroutines and built-in channels allow thousands of tasks to run simultaneously with minimal memory overhead, while the Go runtime efficiently schedules them on a small number of OS threads. This makes it simple to write scalable, performant services that handle massive numbers of simultaneous connections without complex threading code.
 
 A simple, clean RESTful API written in Go that manages a list of todos.  
 This project demonstrates idiomatic Go structure with `cmd/`, `internal/`, and organized `test/` folders for unit and integration testing.
